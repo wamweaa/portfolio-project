@@ -1,0 +1,94 @@
+#photo{
+    width: 200px;
+    border-radius: 20px;
+}
+h1{
+    color: rgb(219, 235, 235);
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: rgb(222, 238, 238);
+    text-align: center;
+}
+h5{
+    color: rgb(240, 247, 247);
+    text-align: center;
+    font-size: xx-large;
+}
+
+body{
+    background-color: rgb(16, 18, 19);
+    /* border: solid; */
+    /* background-image: url(https://i.pinimg.com/564x/d4/a4/ab/d4a4ab70e43812f32f15a8d5795d96e0.jpg);
+    border: solid;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: opx;
+    border-width: 20px;
+    font-size: x-large;
+    font-style: white;
+    color: aqua;
+    border-color: black; */
+    background-image: url(https://media.istockphoto.com/id/1282603838/video/binary-code-matrix-background-with-numbers-moving-downward-on-screen.jpg?s=640x640&k=20&c=uNOynQ95rK1sj1RvqNISmMJrz2Pc1pAnUs-ZkjFuug0=);
+    padding: 20px;
+  
+}
+p{
+    text-align: center;
+}
+
+.dust{
+    text-align: center;
+    
+}
+.skill{
+    text-align: center;
+    /* width: 200px; */
+    
+   
+   
+}
+.proj{
+    text-align: center;
+    
+}
+#contact{
+    text-align: center;
+   padding-bottom: 400px;
+}
+#name{
+    border-radius: 20px;
+    height: 20px;
+}
+#email{
+    border-radius: 20px;
+    height: 20px;
+}
+#message{
+    border-radius: 20px;
+    height: 20px;
+
+}
+
+#pato{
+    /* background-image: url(https://i.pinimg.com/564x/d4/a4/ab/d4a4ab70e43812f32f15a8d5795d96e0.jpg); */
+    /* border: solid; */
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: opx;
+    border-width: 20px;
+    font-size: x-large;
+    font-style: white;
+    color: rgb(239, 252, 252);
+    border-color: black;
+    background-color: black;
+ 
+
+
+}
+.in{
+    font-size: xx-large;
+}
